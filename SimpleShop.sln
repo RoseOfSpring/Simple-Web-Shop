@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleShop", "SimpleShop\SimpleShop.csproj", "{D17386A2-EF64-4B57-8C90-98E0931225A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleShop.Tests", "SimpleShop.Tests\SimpleShop.Tests.csproj", "{972DB2EA-880C-47D9-A95C-6ABA76EF88BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17386A2-EF64-4B57-8C90-98E0931225A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17386A2-EF64-4B57-8C90-98E0931225A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17386A2-EF64-4B57-8C90-98E0931225A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17386A2-EF64-4B57-8C90-98E0931225A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972DB2EA-880C-47D9-A95C-6ABA76EF88BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972DB2EA-880C-47D9-A95C-6ABA76EF88BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972DB2EA-880C-47D9-A95C-6ABA76EF88BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972DB2EA-880C-47D9-A95C-6ABA76EF88BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C59847-D5F9-4B3F-9A66-5BB8EE8CBAF5}
+	EndGlobalSection
+EndGlobal
